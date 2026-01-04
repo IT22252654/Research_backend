@@ -1,7 +1,5 @@
 fastapi
 uvicorn
-sqlalchemy
+motor
 pydantic
-torch
-transformers
-librosa
+python-dotenv
